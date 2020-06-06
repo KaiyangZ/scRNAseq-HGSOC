@@ -16,7 +16,7 @@ where: **Y** are total expression profiles: total expression; **X** are nuisance
 * In `cluster2geneCommunities.R`, detection of co-expressed gene communities and subsequent analysis was performed with the clusters and profiles computed with the highest likelihood.
 
 ### 2. Stress-related transcriptional profile in TCGA data
-* In `survival.R`, we checked the association between the progression-free survival and the detected stress-related transcriptional profile 
+* In `tcga/survival.R`, we checked the association between the progression-free survival and the detected stress-related transcriptional profile 
 
 
 
